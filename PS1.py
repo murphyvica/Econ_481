@@ -2,13 +2,14 @@
 
 def github() -> str:
     """
-    Some docstrings.
+    Github repo file link
     """
-
-    return "https://github.com/<user>/<repo>/blob/main/<filename.py>"
+    
+    return "https://github.com/murphyvica/Econ_481/blob/main/PS1.py"
 
 
 ### Exercise 1
+
 
 import numpy as np
 import pandas as pd
