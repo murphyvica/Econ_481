@@ -10,7 +10,7 @@ def github() -> str:
     Link to github repo
     """
 
-    return "https://"
+    return "https://github.com/murphyvica/Econ_481/blob/main/PS02.py"
 
 
 # ### Exercise 1
