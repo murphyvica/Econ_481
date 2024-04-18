@@ -5,7 +5,7 @@ def github() -> str:
     Some docstrings.
     """
 
-    return "https://github.com/<user>/<repo>/blob/main/<filename.py>"
+    return "https://github.com/murphyvica/Econ_481/blob/main/PS3.py"
 
 
 ### Exercise 1
